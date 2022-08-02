@@ -349,6 +349,9 @@
                                     </attributedString>
                                     <color key="baseBackgroundColor" red="0.4009674788" green="0.0082235932349999999" blue="0.033875018360000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </buttonConfiguration>
+                                <connections>
+                                    <segue destination="I86-G5-NT4" kind="show" id="9L3-aV-KNX"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="TKE-Qr-6gt"/>
@@ -364,7 +367,7 @@
             <objects>
                 <viewController id="I86-G5-NT4" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="nAm-o8-dV0">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D5K-zv-46d">
@@ -391,6 +394,7 @@
                         <viewLayoutGuide key="safeArea" id="Zve-U9-j6z"/>
                         <color key="backgroundColor" red="0.00074885919460000001" green="0.06428471208" blue="0.39541378620000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
+                    <navigationItem key="navigationItem" id="iJH-Af-efV"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GtH-hl-DE3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
