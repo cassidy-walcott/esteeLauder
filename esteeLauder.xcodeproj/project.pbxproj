@@ -18,6 +18,7 @@
 		1CFBFDB32895B5D200CAA147 /* esteeLauderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFBFDB22895B5D200CAA147 /* esteeLauderUITests.swift */; };
 		1CFBFDB52895B5D200CAA147 /* esteeLauderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFBFDB42895B5D200CAA147 /* esteeLauderUITestsLaunchTests.swift */; };
 		1CFBFDC22895BAFE00CAA147 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFBFDC12895BAFE00CAA147 /* SecondViewController.swift */; };
+		1CFBFE32289ADCB600CAA147 /* ClosingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFBFE31289ADCB600CAA147 /* ClosingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		1CFBFDB22895B5D200CAA147 /* esteeLauderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = esteeLauderUITests.swift; sourceTree = "<group>"; };
 		1CFBFDB42895B5D200CAA147 /* esteeLauderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = esteeLauderUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		1CFBFDC12895BAFE00CAA147 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		1CFBFE31289ADCB600CAA147 /* ClosingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				1CFBFD902895B5CD00CAA147 /* SceneDelegate.swift */,
 				1CFBFD922895B5CD00CAA147 /* ViewController.swift */,
 				1CFBFD942895B5CD00CAA147 /* Main.storyboard */,
+				1CFBFE31289ADCB600CAA147 /* ClosingViewController.swift */,
 				1CFBFDC12895BAFE00CAA147 /* SecondViewController.swift */,
 				1CFBFD9A2895B5D100CAA147 /* Assets.xcassets */,
 				1CFBFD9C2895B5D100CAA147 /* LaunchScreen.storyboard */,
@@ -268,6 +271,7 @@
 				1CFBFD8F2895B5CD00CAA147 /* AppDelegate.swift in Sources */,
 				1CFBFD912895B5CD00CAA147 /* SceneDelegate.swift in Sources */,
 				1CFBFDC22895BAFE00CAA147 /* SecondViewController.swift in Sources */,
+				1CFBFE32289ADCB600CAA147 /* ClosingViewController.swift in Sources */,
 				1CFBFD992895B5CD00CAA147 /* esteeLauder.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
